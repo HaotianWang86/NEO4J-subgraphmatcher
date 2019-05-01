@@ -35,7 +35,7 @@ Run following command in terminal
 python -m webbrowser -t "http://www.python.org"
 ```
 
-## Create your own Data graph in Neo4j Desktop
+## Create your own Data graph port in Neo4j Desktop
 
 1. open Neo4j enterprise instance, create a graph database. 
 ![create graph](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/create%20graph.PNG)
@@ -46,17 +46,20 @@ python -m webbrowser -t "http://www.python.org"
 
 ![port infors](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
 
-4. Change the Neo4j Port information in interface. (Different Users may have different ports)
+4. Change the Neo4j Port information, User name and Password in interface. 
+
+(Different Users may have different ports)
 Copy the HTTP port information to python interface. To this line:
 https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/c173f78ee84963b28abc754f4769193fea1ac7c7/matchingsubgraph.py#L18
 and this line:
 https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/811903f8be684b54b467cf4de898c849fbcc4aae/matchingsubgraph.py#L38
 
-## Create your own query graph in Neo4j Desktop
+## Create your own query graph port in Neo4j Desktop
 
 Follow above steps 1-3 to create a query graph. 
 
-4. Change the query graph's port information in interface.
+4. Change the query graph's port information, User name and Passwordin interface.
+
 Copy the HTTP port information to python interface. To this line:
 https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/811903f8be684b54b467cf4de898c849fbcc4aae/matchingsubgraph.py#L23
 and this line;
@@ -64,11 +67,7 @@ https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/811903f8be684b54b467
 
 ### And coding style tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
 ## Deployment
 
