@@ -10,7 +10,8 @@ One Paragraph of project description goes here
 
 Neo4j enterprise instance: It's a graph database platform help to input and load datagraph and query graph
 * [Neo4j](https://neo4j.com/download/) - Neo4j enterprise instance Download
-
+* [Py2neo](https://pypi.org/project/py2neo/) - Py2neo working with Neo4j from within Python
+* [webbrowser](https://docs.python.org/2/library/webbrowser.html) - webbrowser connecting web from within Python
 
 ### Installing
 
