@@ -112,7 +112,6 @@ Run following command in terminal
 python matchingsubgraph.py subgraphmatching
 ```
 
-Add additional notes about how to deploy this on a live system
 
 
 
