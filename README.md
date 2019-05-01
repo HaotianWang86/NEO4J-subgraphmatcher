@@ -19,17 +19,19 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
+1. Downloading Neo4j
+
+2. Downloading py2neo
 ```
-Give the example
+pip install py2neo
 ```
 
-And repeat
+3. Downloading webbrowser
 
+Run following command in terminal
 ```
-until finished
+python -m webbrowser -t "http://www.python.org"
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
