@@ -21,6 +21,8 @@ Say what the step will be
 
 1. Downloading Neo4j
 
+* [Neo4j](https://neo4j.com/download/) - Neo4j enterprise instance Download
+
 2. Downloading py2neo
 ```
 pip install py2neo
@@ -33,7 +35,7 @@ Run following command in terminal
 python -m webbrowser -t "http://www.python.org"
 ```
 
-## Running the tests
+## Load Data Query in Neo4j
 
 Explain how to run the automated tests for this system
 
