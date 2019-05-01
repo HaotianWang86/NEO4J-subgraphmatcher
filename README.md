@@ -47,6 +47,8 @@ python -m webbrowser -t "http://www.python.org"
 ![Screenshot](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
 
 4. 
+Copy the HTTP port information to python interface. To this line:
+https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/c173f78ee84963b28abc754f4769193fea1ac7c7/matchingsubgraph.py#L18
 
 ### Break down into end to end tests
 
