@@ -38,13 +38,13 @@ python -m webbrowser -t "http://www.python.org"
 ## Create your own Data graph port in Neo4j Desktop
 
 1. open Neo4j enterprise instance, create a graph database. 
-![create graph](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/create%20graph.PNG)
+[create graph](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/create%20graph.PNG)
 
 2. Start Running data graph 
 
 3. Check the port informations
 
-![port infors](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
+[port infors](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
 
 4. Change the Neo4j Port information, User name and Password in interface. 
 
