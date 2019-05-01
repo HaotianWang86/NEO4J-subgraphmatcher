@@ -1,6 +1,6 @@
 # Neo4j Subgraph Matcher
 
-One Paragraph of project description goes here
+Neo4j and Python Interface for match query graph in data graph
 
 ## Getting Started
 
