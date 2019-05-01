@@ -37,8 +37,16 @@ python -m webbrowser -t "http://www.python.org"
 
 ## Create your own Data graph in Neo4j Desktop
 
-open Neo4j enterprise instance, create a graph database. 
+1. open Neo4j enterprise instance, create a graph database. 
+![Screenshot](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/create%20graph.PNG)
 
+2. Start Running data graph 
+
+3. Check the port informations
+
+![Screenshot](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
+
+4. 
 
 ### Break down into end to end tests
 
