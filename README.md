@@ -54,6 +54,20 @@ https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/c173f78ee84963b28abc
 and this line:
 https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/811903f8be684b54b467cf4de898c849fbcc4aae/matchingsubgraph.py#L38
 
+### Input Data graph in Neo4j Platform:
+
+Run following command in terminal
+```
+python matchingsubgraph.py inputdatagraph
+```
+
+Interface help to connect with Neo4j.
+
+Edit the data graph in Neo4j.
+
+[IMDB Movie data graph samples](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/samples/datagraph_samples/datagraph)
+
+
 ## Create your own query graph port in Neo4j Desktop
 
 Follow above steps 1-3 to create a query graph. 
