@@ -35,9 +35,10 @@ Run following command in terminal
 python -m webbrowser -t "http://www.python.org"
 ```
 
-## Load Data Query in Neo4j
+## Create a Data graph in Neo4j Desktop
 
-Explain how to run the automated tests for this system
+
+
 
 ### Break down into end to end tests
 
