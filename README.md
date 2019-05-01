@@ -42,9 +42,7 @@ python -m webbrowser -t "http://www.python.org"
 
 2. Start Running data graph 
 
-3. Check the port informations
-
-[port infors](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
+3. Check the port informations[port informations](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
 
 4. Change the Neo4j Port information, User name and Password in interface. 
 
@@ -68,6 +66,11 @@ python matchingsubgraph.py inputdatagraph
 We prodive a sample data graph.
 [IMDB Movie data graph samples](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/samples/datagraph_samples/datagraph)
 
+### Load Data graph into python interface:
+Run following command in terminal
+```
+python matchingsubgraph.py loaddatagraph
+```
 
 ## Create your own query graph port in Neo4j Desktop
 
@@ -93,6 +96,12 @@ python matchingsubgraph.py inputquerygraph
 
 We prodive serval samples DEMO query graph.
 
+
+### Load query graph into python interface:
+Run following command in terminal
+```
+python matchingsubgraph.py querydatagraph
+```
 
 
 ## Deployment
