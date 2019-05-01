@@ -34,8 +34,8 @@ Run following command in terminal
 ```
 python -m webbrowser -t "http://www.python.org"
 ```
-
-## Create your own Data graph port in Neo4j Desktop
+## Loading Graphs
+### Create your own Data graph port in Neo4j Desktop
 
 1. open Neo4j enterprise instance, create a graph database. 
 [create graph](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/create%20graph.PNG)
@@ -72,7 +72,7 @@ Run following command in terminal
 python matchingsubgraph.py loaddatagraph
 ```
 
-## Create your own query graph port in Neo4j Desktop
+### Create your own query graph port in Neo4j Desktop
 
 Follow above steps 1-3 to create a query graph. 
 
