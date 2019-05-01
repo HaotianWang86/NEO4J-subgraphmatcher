@@ -95,7 +95,7 @@ python matchingsubgraph.py inputquerygraph
 2. Edit the data graph in Neo4j.
 
 We prodive serval samples DEMO query graph.
-
+[Query Graph DEMOs]https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/samples/querygraph_samples/querygraph_test
 
 ### Load query graph into python interface:
 Run following command in terminal
