@@ -35,9 +35,9 @@ Run following command in terminal
 python -m webbrowser -t "http://www.python.org"
 ```
 
-## Create a Data graph in Neo4j Desktop
+## Create your own Data graph in Neo4j Desktop
 
-
+open Neo4j enterprise instance, create a graph database. 
 
 
 ### Break down into end to end tests
