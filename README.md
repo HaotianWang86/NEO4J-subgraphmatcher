@@ -42,7 +42,7 @@ python -m webbrowser -t "http://www.python.org"
 
 2. Start Running data graph 
 
-3. Check the port informations[port informations](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
+3. Check the port informations. [port informations](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/fig/HTTP%20port.PNG)
 
 4. Change the Neo4j Port information, User name and Password in interface. 
 
