@@ -61,10 +61,11 @@ Run following command in terminal
 python matchingsubgraph.py inputdatagraph
 ```
 
-Interface help to connect with Neo4j.
+1. Interface help to connect with Neo4j.
 
-Edit the data graph in Neo4j.
+2. Edit the data graph in Neo4j.
 
+We prodive a sample data graph.
 [IMDB Movie data graph samples](https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/master/samples/datagraph_samples/datagraph)
 
 
@@ -79,7 +80,18 @@ https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/811903f8be684b54b467
 and this line;
 https://github.com/HaotianWang86/NEO4J-subgraphmatcher/blob/811903f8be684b54b467cf4de898c849fbcc4aae/matchingsubgraph.py#L53
 
-### And coding style tests
+### Input query graph in Neo4j Platform:
+
+Run following command in terminal
+```
+python matchingsubgraph.py inputquerygraph
+```
+
+1. Interface help to connect with Neo4j.
+
+2. Edit the data graph in Neo4j.
+
+We prodive serval samples DEMO query graph.
 
 
 
