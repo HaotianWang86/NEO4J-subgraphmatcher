@@ -113,7 +113,7 @@ python matchingsubgraph.py subgraphmatching
 ```
 
 
-## py2neo tutorial
+## Py2neo Tutorial
 
 [py2neo](https://nicolewhite.github.io/neo4j-jupyter/hello-world.html)
 
