@@ -101,7 +101,7 @@ We prodive serval samples DEMO query graph.
 
 Run following command in terminal
 ```
-python matchingsubgraph.py querydatagraph
+python matchingsubgraph.py loadquerygraph
 ```
 
 
