@@ -41,7 +41,24 @@ Run following command in terminal
 ```
 pip install networkx
 ```
-## Loading Graphs
+
+## Starting playing the graphical user interface
+
+1. Download the 'finalGUI.py' to D:\ drive. 
+2. Following Python packages need to be installed if already not installed 
+
+pip install networkx
+python -m webbrowser -t "http://www.python.org"
+pip install jupyter 
+pip install matplotlib 
+pip install pandas 
+
+3. Download the Neo4j Enterprise version.
+4. Open the Neo4j Enterprise version and create an graph port in Neo4j:
+[create port](https://github.com/HaotianWang86/Neo4j-isomorphic-subgraph-matcher/blob/master/figures/neo4j.PNG)
+
+
+
 ### Create your own Data graph port in Neo4j Desktop
 
 1. open Neo4j enterprise instance, create a graph database. 
