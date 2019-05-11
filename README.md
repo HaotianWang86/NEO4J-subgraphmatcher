@@ -23,16 +23,23 @@ Say what the step will be
 
 * [Neo4j](https://neo4j.com/download/) - Neo4j enterprise instance Download
 
-2. Downloading py2neo
+2. Downloading py2neo - A python package help to edit the Neo4j Graph
 ```
 pip install py2neo
 ```
 
-3. Downloading webbrowser
+3. Downloading webbrowser - A web browser in Python
 
 Run following command in terminal
 ```
 python -m webbrowser -t "http://www.python.org"
+```
+
+4. Downloading networkx - A graph package in Python programming language
+
+Run following command in terminal
+```
+pip install networkx
 ```
 ## Loading Graphs
 ### Create your own Data graph port in Neo4j Desktop
