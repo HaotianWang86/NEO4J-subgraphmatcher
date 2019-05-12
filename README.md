@@ -47,10 +47,11 @@ pip install py2neo
 4. Open the Neo4j Enterprise version and create an graph port in Neo4j:
 [create port](https://github.com/HaotianWang86/Neo4j-isomorphic-subgraph-matcher/blob/master/figures/neo4j.PNG)
 
-5. Run the interface - issue the following command in the Anaconda command prompt/terminal:
+5. Run the interface - issue the following command in the Anaconda command prompt/terminal with correct dirs:
 ```
 python finalGUI.py
 ```
+[A interface screenshot](https://github.com/HaotianWang86/Neo4j-isomorphic-subgraph-matcher/blob/master/figures/interface.PNG)
 
 
 
