@@ -13,57 +13,45 @@ Neo4j enterprise instance: It's a graph database platform help to input and load
 * [Py2neo](https://pypi.org/project/py2neo/) - Py2neo working with Neo4j from within Python
 * [webbrowser](https://docs.python.org/2/library/webbrowser.html) - webbrowser connecting web from within Python
 
-### Installing
+
+## Starting playing the graphical user interface
 
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
 
-1. Downloading Neo4j
+1. Download the 'finalGUI.py' to D:\ drive. 
 
-* [Neo4j](https://neo4j.com/download/) - Neo4j enterprise instance Download
-
-2. Downloading py2neo - A python package help to edit the Neo4j Graph
+2. Following Python packages need to be installed if already not installed 
+Run following command in terminal
+Downloading networkx - A graph package in Python programming language
+```
+pip install networkx
+```
+Downloading webbrowser - A web browser in Python
+```
+python -m webbrowser -t "http://www.python.org"
+```
+Downloading pandas - A data analysis tool help to save the graph to local
+```
+pip install pandas 
+```
+Downloading py2neo - A python package help to edit the Neo4j Graph
 ```
 pip install py2neo
 ```
 
-3. Downloading webbrowser - A web browser in Python
-
-Run following command in terminal
-```
-python -m webbrowser -t "http://www.python.org"
-```
-
-4. Downloading networkx - A graph package in Python programming language
-
-Run following command in terminal
-```
-pip install networkx
-```
-
-## Starting playing the graphical user interface
-
-1. Download the 'finalGUI.py' to D:\ drive. 
-2. Following Python packages need to be installed if already not installed 
-```
-pip install networkx
-```
-```
-python -m webbrowser -t "http://www.python.org"
-```
-```
-pip install jupyter 
-```
-```
-pip install matplotlib 
-```
-```
-pip install pandas 
-```
 3. Download the Neo4j Enterprise version.
+* [Neo4j](https://neo4j.com/download/) - Neo4j enterprise instance Download
+
 4. Open the Neo4j Enterprise version and create an graph port in Neo4j:
 [create port](https://github.com/HaotianWang86/Neo4j-isomorphic-subgraph-matcher/blob/master/figures/neo4j.PNG)
+
+5. Run the interface - issue the following command in the Anaconda command prompt/terminal:
+```
+python finalGUI.py
+```
+
 
 
 
