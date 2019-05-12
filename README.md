@@ -55,7 +55,19 @@ python finalGUI.py
 
 Also, you can run the code in a Python IDE, such as SPYDER, PYCHARM.
 
+6. Generate the Data graph
 
+
+7. Visualize the data graph
+
+
+8. Generate the Query graph
+
+
+9. Visualize the query graph
+
+
+10. Isomorphism subgraph Matching
 
 ### Create your own Data graph port in Neo4j Desktop
 
